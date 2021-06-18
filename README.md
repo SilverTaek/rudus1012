@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudus1012)](https://github.com/anuraghazra/github-readme-stats)
+# Velog 최신글 보기
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rudus1012&tag=server)](https://github.com/eungyeole/velog-readme-stats)
