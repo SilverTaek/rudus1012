@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudus1012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Velog 기술 블로그
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rudus1012&tag=server)](https://velog.io/@rudus1012/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%8C%80%EA%B7%9C%EB%AA%A8%ED%8A%B8%EB%9E%98%ED%94%BD%EC%97%90-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95Scale-Up-vs-Scale-Out)
